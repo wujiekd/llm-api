@@ -1,0 +1,15 @@
+sentencepiece
+transformers==4.30.2
+fastapi
+uvicorn
+protobuf
+cpm_kernels
+torch==2.1.1
+gradio
+loralib==0.1.2
+mdtex2html
+colossalai==0.3.1
+accelerate==0.16.0
+tiktoken==0.4.0
+einops==0.6.1
+transformers-stream-generator==0.0.4

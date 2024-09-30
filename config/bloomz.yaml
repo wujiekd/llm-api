@@ -1,0 +1,4 @@
+name: bloomz
+start_lora: False
+config_path: model_bloomz/pretrain
+model_path: /apdcephfs_share_887471/share_887471/projects/doclm/service/models/tencent_cloud/v1.6.5/tcloud_rel/merge_tcloud_rel.bin

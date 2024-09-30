@@ -1,0 +1,3 @@
+name: qwen
+start_lora: False
+model_path: llm_models/Qwen/Qwen-7B-Chat

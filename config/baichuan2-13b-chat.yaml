@@ -1,0 +1,2 @@
+name: baichuan
+model_path: ./llm_models/baichuan-inc/Baichuan2-13B-Chat

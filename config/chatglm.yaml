@@ -1,0 +1,4 @@
+name: chatglm
+start_lora: True
+config_path: model_chatglm_6b/pretrain
+model_path: /apdcephfs_share_887471/share_887471/projects/doclm/service/models/tencent_cloud/v1.6.5/tcloud_llm_a/tcloud_llm_a.bin
